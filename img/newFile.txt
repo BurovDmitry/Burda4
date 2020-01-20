@@ -9,3 +9,7 @@ return a + c;
 function dfj (a, b){
 return adding(a, b);
 }
+
+function alert(message){
+ alert(message);
+}
