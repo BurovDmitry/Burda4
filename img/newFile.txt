@@ -1,3 +1,11 @@
 lalalal
 Slava new changes
 Dima changes
+
+function addding (a, c) {
+return a + c;
+}
+
+function dfj (a, b){
+return adding(a, b);
+}
